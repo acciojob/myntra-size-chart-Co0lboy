@@ -7,3 +7,9 @@ table{
 	width:100%;
 	border-collapse:collapse;
 }
+th{
+	background-color:red
+}
+td{
+	background-color:hotpink
+}
